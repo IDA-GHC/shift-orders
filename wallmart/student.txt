@@ -1,0 +1,4 @@
+college 
+student
+teachers
+school
